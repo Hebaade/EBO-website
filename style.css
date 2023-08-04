@@ -7,6 +7,9 @@ body{
     margin: 0;
     box-sizing: border-box;
 }
+::selection{
+   background-color: rgba(21, 233, 21, 0.719)
+}
 .fa-xmark,#iconHam{
     display: none;
     color:rgba(21, 233, 21, 0.719);
